@@ -27,5 +27,15 @@
 - Node.js (LTS sürümü önerilir)
 - NPM veya Yarn
 
+### Setup Instructions:
+
+Bu projeyi yerel makinenizde çalıştırmak için şu adımları takip edebilirsiniz:
+Proje dizinine gidin:
+
+1. Bu repository'yi klonlayın:
+
+   ```bash
+   git clone https://github.com/Emre-Bilge/Employee-React-FrontEnd.git
+
 
 
